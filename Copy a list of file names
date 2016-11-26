@@ -1,0 +1,5 @@
+Hold the "Shift" key, right-click the folder containing a list of files and select "Open Command Window Here."
+
+Type "dir /b > filenames.txt" (without quotation marks) in the Command Prompt window. Press "Enter."
+
+Double-click the "filenames.txt" file from the previously selected folder to see a list of file names in that folder.
